@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Windows Security", "Windows Security\Windows Security.csproj", "{DBCABB99-7D4A-40D3-B10D-B926BB5529AC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{FAFDD576-FC5F-499A-BC13-8477B65EC08F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBCABB99-7D4A-40D3-B10D-B926BB5529AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBCABB99-7D4A-40D3-B10D-B926BB5529AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBCABB99-7D4A-40D3-B10D-B926BB5529AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBCABB99-7D4A-40D3-B10D-B926BB5529AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAFDD576-FC5F-499A-BC13-8477B65EC08F}.Debug|Any CPU.ActiveCfg = Debug
+		{FAFDD576-FC5F-499A-BC13-8477B65EC08F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {770649DE-9193-4B0D-9B9D-5B8FE01E36BA}
+	EndGlobalSection
+EndGlobal
